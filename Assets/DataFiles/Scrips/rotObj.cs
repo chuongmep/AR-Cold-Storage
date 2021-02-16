@@ -1,0 +1,17 @@
+﻿using UnityEngine;
+using System.Collections;
+
+public class rotObj : MonoBehaviour 
+{
+	float rotSpeed = 20;
+
+	void OnMouseDrag()
+	{
+		float rotX = Input.GetAxis("Mouse X")*rotSpeed*Mathf.Deg2Rad;
+
+
+		transform.RotateAround(Vector3.up, -rotX);
+
+
+	}
+}

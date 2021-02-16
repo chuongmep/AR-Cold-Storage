@@ -1,0 +1,304 @@
+fileFormatVersion: 2
+guid: a8adda47541f28d4dabab3d6453851cb
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 1070mm Concrete With 50mm Metal Deck 2
+    100002: 150mm Concrete With 50mm Metal Deck 2
+    100004: 160mm Concrete With 50mm Metal Deck
+    100006: 200mm Concrete With 50mm Metal Deck 2
+    100008: 300 x 450mm
+    100010: 300 x 450mm 1
+    100012: 300 x 450mm 10
+    100014: 300 x 450mm 11
+    100016: 300 x 450mm 12
+    100018: 300 x 450mm 13
+    100020: 300 x 450mm 14
+    100022: 300 x 450mm 15
+    100024: 300 x 450mm 16
+    100026: 300 x 450mm 17
+    100028: 300 x 450mm 2
+    100030: 300 x 450mm 3
+    100032: 300 x 450mm 4
+    100034: 300 x 450mm 5
+    100036: 300 x 450mm 6
+    100038: 300 x 450mm 7
+    100040: 300 x 450mm 8
+    100042: 300 x 450mm 9
+    100044: 6'-0" x 7'-0"
+    100046: 6'-0" x 7'-0" 1
+    100048: 75mm Metal Roof Deck
+    100050: Analytical Model
+    100052: Analytical Walls
+    100054: Columns
+    100056: Cot chan
+    100058: Cot chan 1
+    100060: "C\u1EEDa kho l\u1EA1nh"
+    100062: Doors
+    100064: //RootNode
+    100066: DU AN KHO LANH_chuongpqvn@gmail.com.rvt
+    100068: Exterior - 125mm Concrete 2
+    100070: Exterior - 125mm Concrete 2 1
+    100072: Exterior - 125mm Concrete 2 2
+    100074: Exterior - 125mm Concrete 2 3
+    100076: Floors
+    100078: M_Concrete-Rectangular-Column
+    100080: Polygonal object 1
+    100082: Polygonal object 2
+    100084: Polygonal object 3
+    100086: Polygonal object 4
+    100088: Railings
+    100090: Railings 1
+    100092: Railings 1 1
+    100094: Railings 1 2
+    100096: Railings 2
+    100098: Structural Columns
+    100100: Walls
+    100102: '{3D - chuongpqvn@gmail.com}'
+    100104: '{3D}'
+    400000: 1070mm Concrete With 50mm Metal Deck 2
+    400002: 150mm Concrete With 50mm Metal Deck 2
+    400004: 160mm Concrete With 50mm Metal Deck
+    400006: 200mm Concrete With 50mm Metal Deck 2
+    400008: 300 x 450mm
+    400010: 300 x 450mm 1
+    400012: 300 x 450mm 10
+    400014: 300 x 450mm 11
+    400016: 300 x 450mm 12
+    400018: 300 x 450mm 13
+    400020: 300 x 450mm 14
+    400022: 300 x 450mm 15
+    400024: 300 x 450mm 16
+    400026: 300 x 450mm 17
+    400028: 300 x 450mm 2
+    400030: 300 x 450mm 3
+    400032: 300 x 450mm 4
+    400034: 300 x 450mm 5
+    400036: 300 x 450mm 6
+    400038: 300 x 450mm 7
+    400040: 300 x 450mm 8
+    400042: 300 x 450mm 9
+    400044: 6'-0" x 7'-0"
+    400046: 6'-0" x 7'-0" 1
+    400048: 75mm Metal Roof Deck
+    400050: Analytical Model
+    400052: Analytical Walls
+    400054: Columns
+    400056: Cot chan
+    400058: Cot chan 1
+    400060: "C\u1EEDa kho l\u1EA1nh"
+    400062: Doors
+    400064: //RootNode
+    400066: DU AN KHO LANH_chuongpqvn@gmail.com.rvt
+    400068: Exterior - 125mm Concrete 2
+    400070: Exterior - 125mm Concrete 2 1
+    400072: Exterior - 125mm Concrete 2 2
+    400074: Exterior - 125mm Concrete 2 3
+    400076: Floors
+    400078: M_Concrete-Rectangular-Column
+    400080: Polygonal object 1
+    400082: Polygonal object 2
+    400084: Polygonal object 3
+    400086: Polygonal object 4
+    400088: Railings
+    400090: Railings 1
+    400092: Railings 1 1
+    400094: Railings 1 2
+    400096: Railings 2
+    400098: Structural Columns
+    400100: Walls
+    400102: '{3D - chuongpqvn@gmail.com}'
+    400104: '{3D}'
+    2000000: Analytical Model
+    2000002: '{3D - chuongpqvn@gmail.com}'
+    2000004: '{3D}'
+    2100000: Metal Deck
+    2100002: Concrete, Cast-in-Place gray
+    2100004: Concrete - Cast-in-Place Concrete - 35 MPa
+    2100006: Wood Sheathing, Chipboard
+    2100008: Analytical Wall Surface
+    2100010: No Name
+    2100012: Default material
+    2100014: Finish-EFD-Gasket
+    2100016: Finish-EFD-DoorStyle-Stucco_White_Aluminum
+    2100018: Finish-EFD-ComponentBlack
+    2100020: Finish-EFD-ComponentMetal
+    2100022: Finish-EFD-Casing
+    2300000: 1070mm Concrete With 50mm Metal Deck 2
+    2300002: 150mm Concrete With 50mm Metal Deck 2
+    2300004: 160mm Concrete With 50mm Metal Deck
+    2300006: 200mm Concrete With 50mm Metal Deck 2
+    2300008: 300 x 450mm
+    2300010: 300 x 450mm 1
+    2300012: 300 x 450mm 10
+    2300014: 300 x 450mm 11
+    2300016: 300 x 450mm 12
+    2300018: 300 x 450mm 13
+    2300020: 300 x 450mm 14
+    2300022: 300 x 450mm 15
+    2300024: 300 x 450mm 16
+    2300026: 300 x 450mm 17
+    2300028: 300 x 450mm 2
+    2300030: 300 x 450mm 3
+    2300032: 300 x 450mm 4
+    2300034: 300 x 450mm 5
+    2300036: 300 x 450mm 6
+    2300038: 300 x 450mm 7
+    2300040: 300 x 450mm 8
+    2300042: 300 x 450mm 9
+    2300044: 6'-0" x 7'-0"
+    2300046: 6'-0" x 7'-0" 1
+    2300048: 75mm Metal Roof Deck
+    2300050: Cot chan 1
+    2300052: Exterior - 125mm Concrete 2
+    2300054: Exterior - 125mm Concrete 2 1
+    2300056: Exterior - 125mm Concrete 2 2
+    2300058: Exterior - 125mm Concrete 2 3
+    2300060: Polygonal object 1
+    2300062: Polygonal object 2
+    2300064: Polygonal object 3
+    2300066: Polygonal object 4
+    2300068: Railings 1 1
+    2300070: Railings 1 2
+    3300000: 1070mm Concrete With 50mm Metal Deck 2
+    3300002: 150mm Concrete With 50mm Metal Deck 2
+    3300004: 160mm Concrete With 50mm Metal Deck
+    3300006: 200mm Concrete With 50mm Metal Deck 2
+    3300008: 300 x 450mm
+    3300010: 300 x 450mm 1
+    3300012: 300 x 450mm 10
+    3300014: 300 x 450mm 11
+    3300016: 300 x 450mm 12
+    3300018: 300 x 450mm 13
+    3300020: 300 x 450mm 14
+    3300022: 300 x 450mm 15
+    3300024: 300 x 450mm 16
+    3300026: 300 x 450mm 17
+    3300028: 300 x 450mm 2
+    3300030: 300 x 450mm 3
+    3300032: 300 x 450mm 4
+    3300034: 300 x 450mm 5
+    3300036: 300 x 450mm 6
+    3300038: 300 x 450mm 7
+    3300040: 300 x 450mm 8
+    3300042: 300 x 450mm 9
+    3300044: 6'-0" x 7'-0"
+    3300046: 6'-0" x 7'-0" 1
+    3300048: 75mm Metal Roof Deck
+    3300050: Cot chan 1
+    3300052: Exterior - 125mm Concrete 2
+    3300054: Exterior - 125mm Concrete 2 1
+    3300056: Exterior - 125mm Concrete 2 2
+    3300058: Exterior - 125mm Concrete 2 3
+    3300060: Polygonal object 1
+    3300062: Polygonal object 2
+    3300064: Polygonal object 3
+    3300066: Polygonal object 4
+    3300068: Railings 1 1
+    3300070: Railings 1 2
+    4300000: 1070mm Concrete With 50mm Metal Deck 2
+    4300002: 150mm Concrete With 50mm Metal Deck 2
+    4300004: 200mm Concrete With 50mm Metal Deck 2
+    4300006: 160mm Concrete With 50mm Metal Deck
+    4300008: 75mm Metal Roof Deck
+    4300010: Exterior - 125mm Concrete 2
+    4300012: Exterior - 125mm Concrete 2
+    4300014: Exterior - 125mm Concrete 2
+    4300016: Exterior - 125mm Concrete 2
+    4300018: Polygonal object 1
+    4300020: Polygonal object 2
+    4300022: Polygonal object 3
+    4300024: Polygonal object 4
+    4300026: 300 x 450mm
+    4300028: Railings 1
+    4300030: Railings 1
+    4300032: 6'-0" x 7'-0"
+    4300034: 6'-0" x 7'-0"
+    4300036: Cot chan
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

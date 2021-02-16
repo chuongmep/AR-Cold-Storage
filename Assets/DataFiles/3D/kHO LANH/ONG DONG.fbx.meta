@@ -1,0 +1,394 @@
+fileFormatVersion: 2
+guid: cf5cae81380b93a4bb2cc8f404507e49
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Assembly~206
+    100004: Camera~13
+    100006: Center Line (14)
+    100008: Center line (15)
+    100010: Group
+    100012: Group_10
+    100014: Group_11
+    100016: Group_12
+    100018: Group_13
+    100020: Group_14
+    100022: Group_15
+    100024: Group_16
+    100026: Group_2
+    100028: Group_3
+    100030: Group_4
+    100032: Group_5
+    100034: Group_6
+    100036: Group_7
+    100038: Group_8
+    100040: Group_9
+    100042: M_Elbow - Welded - Generic (12)
+    100044: M_Elbow - Welded - Generic [555346]
+    100046: M_Elbow - Welded - Generic [555677]
+    100048: M_Elbow - Welded - Generic [555750]
+    100050: M_Elbow - Welded - Generic [555848]
+    100052: M_Elbow - Welded - Generic [555858]
+    100054: M_Elbow - Welded - Generic [556545]
+    100056: M_Elbow - Welded - Generic [556549]
+    100058: M_Elbow - Welded - Generic [556551]
+    100060: M_Elbow - Welded - Generic [557040]
+    100062: M_Elbow - Welded - Generic [557085]
+    100064: M_Elbow - Welded - Generic [557089]
+    100066: M_Elbow - Welded - Generic [557135]
+    100068: M_Transition - Generic (3)
+    100070: M_Transition - Generic [555334]
+    100072: M_Transition - Generic [556547]
+    100074: M_Transition - Generic [556827]
+    100076: Object
+    100078: Object_10
+    100080: Object_11
+    100082: Object_12
+    100084: Object_13
+    100086: Object_14
+    100088: Object_15
+    100090: Object_16
+    100092: Object_17
+    100094: Object_18
+    100096: Object_19
+    100098: Object_2
+    100100: Object_20
+    100102: Object_21
+    100104: Object_22
+    100106: Object_23
+    100108: Object_24
+    100110: Object_25
+    100112: Object_26
+    100114: Object_27
+    100116: Object_28
+    100118: Object_29
+    100120: Object_3
+    100122: Object_4
+    100124: Object_5
+    100126: Object_6
+    100128: Object_7
+    100130: Object_8
+    100132: Object_9
+    100134: Part 109
+    100136: Part 109 1
+    100138: Part 109 2
+    100140: Part 109 3
+    100142: Part 150
+    100144: Part 160
+    100146: Part 170
+    100148: Part 184
+    100150: Part 192
+    100152: Part 200
+    100154: Part 208
+    100156: Part 216
+    100158: Part 224
+    100160: Part 232
+    100162: Part 240
+    100164: Part 248
+    100166: Part 256
+    100168: Part 264
+    100170: Part 272
+    100172: Part 280
+    100174: Part 288
+    100176: Part 34
+    100178: Part 34 1
+    100180: Part 34 2
+    100182: Part 34 3
+    100184: Part 34 4
+    100186: Part 34 5
+    100188: Part 34 6
+    100190: Part 34 7
+    100192: Pipe Fittings (15)
+    100194: Pipe Types [555316]
+    100196: Pipe Types [555449]
+    100198: Pipe Types [555671]
+    100200: Pipe Types [555752]
+    100202: Pipe Types [555840]
+    100204: Pipe Types [555850]
+    100206: Pipe Types [556528]
+    100208: Pipe Types [556541]
+    100210: Pipe Types [556542]
+    100212: Pipe Types [556593]
+    100214: Pipe Types [556638]
+    100216: Pipe Types [556790]
+    100218: Pipe Types [557032]
+    100220: Pipe Types [557061]
+    100222: Pipes (14)
+    400000: //RootNode
+    400002: Assembly~206
+    400004: Camera~13
+    400006: Center Line (14)
+    400008: Center line (15)
+    400010: Group
+    400012: Group_10
+    400014: Group_11
+    400016: Group_12
+    400018: Group_13
+    400020: Group_14
+    400022: Group_15
+    400024: Group_16
+    400026: Group_2
+    400028: Group_3
+    400030: Group_4
+    400032: Group_5
+    400034: Group_6
+    400036: Group_7
+    400038: Group_8
+    400040: Group_9
+    400042: M_Elbow - Welded - Generic (12)
+    400044: M_Elbow - Welded - Generic [555346]
+    400046: M_Elbow - Welded - Generic [555677]
+    400048: M_Elbow - Welded - Generic [555750]
+    400050: M_Elbow - Welded - Generic [555848]
+    400052: M_Elbow - Welded - Generic [555858]
+    400054: M_Elbow - Welded - Generic [556545]
+    400056: M_Elbow - Welded - Generic [556549]
+    400058: M_Elbow - Welded - Generic [556551]
+    400060: M_Elbow - Welded - Generic [557040]
+    400062: M_Elbow - Welded - Generic [557085]
+    400064: M_Elbow - Welded - Generic [557089]
+    400066: M_Elbow - Welded - Generic [557135]
+    400068: M_Transition - Generic (3)
+    400070: M_Transition - Generic [555334]
+    400072: M_Transition - Generic [556547]
+    400074: M_Transition - Generic [556827]
+    400076: Object
+    400078: Object_10
+    400080: Object_11
+    400082: Object_12
+    400084: Object_13
+    400086: Object_14
+    400088: Object_15
+    400090: Object_16
+    400092: Object_17
+    400094: Object_18
+    400096: Object_19
+    400098: Object_2
+    400100: Object_20
+    400102: Object_21
+    400104: Object_22
+    400106: Object_23
+    400108: Object_24
+    400110: Object_25
+    400112: Object_26
+    400114: Object_27
+    400116: Object_28
+    400118: Object_29
+    400120: Object_3
+    400122: Object_4
+    400124: Object_5
+    400126: Object_6
+    400128: Object_7
+    400130: Object_8
+    400132: Object_9
+    400134: Part 109
+    400136: Part 109 1
+    400138: Part 109 2
+    400140: Part 109 3
+    400142: Part 150
+    400144: Part 160
+    400146: Part 170
+    400148: Part 184
+    400150: Part 192
+    400152: Part 200
+    400154: Part 208
+    400156: Part 216
+    400158: Part 224
+    400160: Part 232
+    400162: Part 240
+    400164: Part 248
+    400166: Part 256
+    400168: Part 264
+    400170: Part 272
+    400172: Part 280
+    400174: Part 288
+    400176: Part 34
+    400178: Part 34 1
+    400180: Part 34 2
+    400182: Part 34 3
+    400184: Part 34 4
+    400186: Part 34 5
+    400188: Part 34 6
+    400190: Part 34 7
+    400192: Pipe Fittings (15)
+    400194: Pipe Types [555316]
+    400196: Pipe Types [555449]
+    400198: Pipe Types [555671]
+    400200: Pipe Types [555752]
+    400202: Pipe Types [555840]
+    400204: Pipe Types [555850]
+    400206: Pipe Types [556528]
+    400208: Pipe Types [556541]
+    400210: Pipe Types [556542]
+    400212: Pipe Types [556593]
+    400214: Pipe Types [556638]
+    400216: Pipe Types [556790]
+    400218: Pipe Types [557032]
+    400220: Pipe Types [557061]
+    400222: Pipes (14)
+    2100000: R127,G127,B127
+    2100002: R0,G0,B0
+    2300000: Part 109
+    2300002: Part 109 1
+    2300004: Part 109 2
+    2300006: Part 109 3
+    2300008: Part 150
+    2300010: Part 160
+    2300012: Part 170
+    2300014: Part 184
+    2300016: Part 192
+    2300018: Part 200
+    2300020: Part 208
+    2300022: Part 216
+    2300024: Part 224
+    2300026: Part 232
+    2300028: Part 240
+    2300030: Part 248
+    2300032: Part 256
+    2300034: Part 264
+    2300036: Part 272
+    2300038: Part 280
+    2300040: Part 288
+    2300042: Part 34
+    2300044: Part 34 1
+    2300046: Part 34 2
+    2300048: Part 34 3
+    2300050: Part 34 4
+    2300052: Part 34 5
+    2300054: Part 34 6
+    2300056: Part 34 7
+    3300000: Part 109
+    3300002: Part 109 1
+    3300004: Part 109 2
+    3300006: Part 109 3
+    3300008: Part 150
+    3300010: Part 160
+    3300012: Part 170
+    3300014: Part 184
+    3300016: Part 192
+    3300018: Part 200
+    3300020: Part 208
+    3300022: Part 216
+    3300024: Part 224
+    3300026: Part 232
+    3300028: Part 240
+    3300030: Part 248
+    3300032: Part 256
+    3300034: Part 264
+    3300036: Part 272
+    3300038: Part 280
+    3300040: Part 288
+    3300042: Part 34
+    3300044: Part 34 1
+    3300046: Part 34 2
+    3300048: Part 34 3
+    3300050: Part 34 4
+    3300052: Part 34 5
+    3300054: Part 34 6
+    3300056: Part 34 7
+    4300000: Part 34
+    4300002: Part 109
+    4300004: Part 150
+    4300006: Part 160
+    4300008: Part 170
+    4300010: Part 184
+    4300012: Part 192
+    4300014: Part 200
+    4300016: Part 208
+    4300018: Part 216
+    4300020: Part 224
+    4300022: Part 232
+    4300024: Part 240
+    4300026: Part 248
+    4300028: Part 256
+    4300030: Part 264
+    4300032: Part 272
+    4300034: Part 280
+    4300036: Part 288
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

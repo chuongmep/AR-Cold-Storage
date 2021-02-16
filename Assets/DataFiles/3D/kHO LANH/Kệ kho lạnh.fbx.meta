@@ -1,0 +1,439 @@
+fileFormatVersion: 2
+guid: 2aea2d20b035b63428f4a043c68e4f9a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ' (6)'
+    100002: 3DGeom~1
+    100004: 3DGeom~1_2
+    100006: 3DGeom~1_3
+    100008: 3DGeom~2
+    100010: 3DGeom~2_2
+    100012: 3DGeom~2_3
+    100014: 3DGeom~3
+    100016: 3DGeom~3_2
+    100018: 3DGeom~3_3
+    100020: 3DGeom~4
+    100022: 3DGeom~4_2
+    100024: 3DGeom~4_3
+    100026: 3DGeom~5
+    100028: 3DGeom~5_2
+    100030: 3DGeom~5_3
+    100032: 3DGeom~6
+    100034: 3DGeom~6_2
+    100036: 3DGeom~6_3
+    100038: 3DGeom~7
+    100040: 3DGeom~7_2
+    100042: 3DGeom~7_3
+    100044: 3DGeom~8
+    100046: 3DGeom~8_2
+    100048: 3DGeom~8_3
+    100050: '[11784]'
+    100052: '[11791]'
+    100054: '[11798]'
+    100056: '[7121]'
+    100058: '[7483]'
+    100060: '[7502]'
+    100062: Assembly~107
+    100064: Camera~12
+    100066: DAM KHUNG (6)
+    100068: DAM KHUNG [11514]
+    100070: DAM KHUNG [11524]
+    100072: DAM KHUNG [11532]
+    100074: DAM KHUNG [11576]
+    100076: DAM KHUNG [11577]
+    100078: DAM KHUNG [11578]
+    100080: Generic Models (13)
+    100082: Group
+    100084: Group_10
+    100086: Group_11
+    100088: Group_12
+    100090: Group_13
+    100092: Group_14
+    100094: Group_15
+    100096: Group_16
+    100098: Group_17
+    100100: Group_2
+    100102: Group_3
+    100104: Group_4
+    100106: Group_5
+    100108: Group_6
+    100110: Group_7
+    100112: Group_8
+    100114: Group_9
+    100116: h_ng (4)
+    100118: h_ng [14019]
+    100120: h_ng [16466]
+    100122: h_ng [16506]
+    100124: h_ng [16565]
+    100126: Khung k
+    100128: Khung k 1
+    100130: Khung k 2
+    100132: Khung k 3
+    100134: //RootNode
+    100136: Object
+    100138: Object_10
+    100140: Object_11
+    100142: Object_12
+    100144: Object_13
+    100146: Object_14
+    100148: Object_15
+    100150: Object_16
+    100152: Object_2
+    100154: Object_3
+    100156: Object_4
+    100158: Object_5
+    100160: Object_6
+    100162: Object_7
+    100164: Object_8
+    100166: Object_9
+    100168: Part 140
+    100170: Part 140 1
+    100172: Part 140 2
+    100174: Part 148
+    100176: Part 148 1
+    100178: Part 148 2
+    100180: Part 156
+    100182: Part 156 1
+    100184: Part 156 2
+    100186: Part 164
+    100188: Part 164 1
+    100190: Part 164 2
+    100192: Part 172
+    100194: Part 172 1
+    100196: Part 172 2
+    100198: Part 180
+    100200: Part 180 1
+    100202: Part 180 2
+    100204: Part 188
+    100206: Part 188 1
+    100208: Part 188 2
+    100210: Part 196
+    100212: Part 196 1
+    100214: Part 196 2
+    100216: Part 300
+    100218: Part 308
+    100220: Part 316
+    100222: Part 324
+    100224: Part 332
+    100226: Part 340
+    100228: Part 35
+    100230: Part 35 1
+    100232: Part 35 2
+    100234: Part 65
+    100236: Part 65 1
+    100238: Part 65 2
+    100240: Part 97
+    100242: Part 97 1
+    100244: Part 97 2
+    100246: Part 97 3
+    400000: ' (6)'
+    400002: 3DGeom~1
+    400004: 3DGeom~1_2
+    400006: 3DGeom~1_3
+    400008: 3DGeom~2
+    400010: 3DGeom~2_2
+    400012: 3DGeom~2_3
+    400014: 3DGeom~3
+    400016: 3DGeom~3_2
+    400018: 3DGeom~3_3
+    400020: 3DGeom~4
+    400022: 3DGeom~4_2
+    400024: 3DGeom~4_3
+    400026: 3DGeom~5
+    400028: 3DGeom~5_2
+    400030: 3DGeom~5_3
+    400032: 3DGeom~6
+    400034: 3DGeom~6_2
+    400036: 3DGeom~6_3
+    400038: 3DGeom~7
+    400040: 3DGeom~7_2
+    400042: 3DGeom~7_3
+    400044: 3DGeom~8
+    400046: 3DGeom~8_2
+    400048: 3DGeom~8_3
+    400050: '[11784]'
+    400052: '[11791]'
+    400054: '[11798]'
+    400056: '[7121]'
+    400058: '[7483]'
+    400060: '[7502]'
+    400062: Assembly~107
+    400064: Camera~12
+    400066: DAM KHUNG (6)
+    400068: DAM KHUNG [11514]
+    400070: DAM KHUNG [11524]
+    400072: DAM KHUNG [11532]
+    400074: DAM KHUNG [11576]
+    400076: DAM KHUNG [11577]
+    400078: DAM KHUNG [11578]
+    400080: Generic Models (13)
+    400082: Group
+    400084: Group_10
+    400086: Group_11
+    400088: Group_12
+    400090: Group_13
+    400092: Group_14
+    400094: Group_15
+    400096: Group_16
+    400098: Group_17
+    400100: Group_2
+    400102: Group_3
+    400104: Group_4
+    400106: Group_5
+    400108: Group_6
+    400110: Group_7
+    400112: Group_8
+    400114: Group_9
+    400116: h_ng (4)
+    400118: h_ng [14019]
+    400120: h_ng [16466]
+    400122: h_ng [16506]
+    400124: h_ng [16565]
+    400126: Khung k
+    400128: Khung k 1
+    400130: Khung k 2
+    400132: Khung k 3
+    400134: //RootNode
+    400136: Object
+    400138: Object_10
+    400140: Object_11
+    400142: Object_12
+    400144: Object_13
+    400146: Object_14
+    400148: Object_15
+    400150: Object_16
+    400152: Object_2
+    400154: Object_3
+    400156: Object_4
+    400158: Object_5
+    400160: Object_6
+    400162: Object_7
+    400164: Object_8
+    400166: Object_9
+    400168: Part 140
+    400170: Part 140 1
+    400172: Part 140 2
+    400174: Part 148
+    400176: Part 148 1
+    400178: Part 148 2
+    400180: Part 156
+    400182: Part 156 1
+    400184: Part 156 2
+    400186: Part 164
+    400188: Part 164 1
+    400190: Part 164 2
+    400192: Part 172
+    400194: Part 172 1
+    400196: Part 172 2
+    400198: Part 180
+    400200: Part 180 1
+    400202: Part 180 2
+    400204: Part 188
+    400206: Part 188 1
+    400208: Part 188 2
+    400210: Part 196
+    400212: Part 196 1
+    400214: Part 196 2
+    400216: Part 300
+    400218: Part 308
+    400220: Part 316
+    400222: Part 324
+    400224: Part 332
+    400226: Part 340
+    400228: Part 35
+    400230: Part 35 1
+    400232: Part 35 2
+    400234: Part 65
+    400236: Part 65 1
+    400238: Part 65 2
+    400240: Part 97
+    400242: Part 97 1
+    400244: Part 97 2
+    400246: Part 97 3
+    2100000: R0,G0,B255
+    2100002: R255,G128,B64
+    2100004: R255,G255,B255
+    2300000: Part 140
+    2300002: Part 140 1
+    2300004: Part 140 2
+    2300006: Part 148
+    2300008: Part 148 1
+    2300010: Part 148 2
+    2300012: Part 156
+    2300014: Part 156 1
+    2300016: Part 156 2
+    2300018: Part 164
+    2300020: Part 164 1
+    2300022: Part 164 2
+    2300024: Part 172
+    2300026: Part 172 1
+    2300028: Part 172 2
+    2300030: Part 180
+    2300032: Part 180 1
+    2300034: Part 180 2
+    2300036: Part 188
+    2300038: Part 188 1
+    2300040: Part 188 2
+    2300042: Part 196
+    2300044: Part 196 1
+    2300046: Part 196 2
+    2300048: Part 300
+    2300050: Part 308
+    2300052: Part 316
+    2300054: Part 324
+    2300056: Part 332
+    2300058: Part 340
+    2300060: Part 35
+    2300062: Part 35 1
+    2300064: Part 35 2
+    2300066: Part 65
+    2300068: Part 65 1
+    2300070: Part 65 2
+    2300072: Part 97
+    2300074: Part 97 1
+    2300076: Part 97 2
+    2300078: Part 97 3
+    3300000: Part 140
+    3300002: Part 140 1
+    3300004: Part 140 2
+    3300006: Part 148
+    3300008: Part 148 1
+    3300010: Part 148 2
+    3300012: Part 156
+    3300014: Part 156 1
+    3300016: Part 156 2
+    3300018: Part 164
+    3300020: Part 164 1
+    3300022: Part 164 2
+    3300024: Part 172
+    3300026: Part 172 1
+    3300028: Part 172 2
+    3300030: Part 180
+    3300032: Part 180 1
+    3300034: Part 180 2
+    3300036: Part 188
+    3300038: Part 188 1
+    3300040: Part 188 2
+    3300042: Part 196
+    3300044: Part 196 1
+    3300046: Part 196 2
+    3300048: Part 300
+    3300050: Part 308
+    3300052: Part 316
+    3300054: Part 324
+    3300056: Part 332
+    3300058: Part 340
+    3300060: Part 35
+    3300062: Part 35 1
+    3300064: Part 35 2
+    3300066: Part 65
+    3300068: Part 65 1
+    3300070: Part 65 2
+    3300072: Part 97
+    3300074: Part 97 1
+    3300076: Part 97 2
+    3300078: Part 97 3
+    4300000: Part 35
+    4300002: Part 65
+    4300004: Part 97
+    4300006: Part 140
+    4300008: Part 148
+    4300010: Part 156
+    4300012: Part 164
+    4300014: Part 172
+    4300016: Part 180
+    4300018: Part 188
+    4300020: Part 196
+    4300022: Part 300
+    4300024: Part 308
+    4300026: Part 316
+    4300028: Part 324
+    4300030: Part 332
+    4300032: Part 340
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

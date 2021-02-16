@@ -1,0 +1,290 @@
+fileFormatVersion: 2
+guid: 1e70e0bc4406de3458f45c3d47f4e059
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 3DGeom~39
+    100002: 3DGeom~40
+    100004: 3DGeom~41
+    100006: 3DGeom~42
+    100008: 3DGeom~43
+    100010: 3DGeom~44
+    100012: 3DGeom~45
+    100014: 3DGeom~46
+    100016: 3DGeom~47
+    100018: 3DGeom~48
+    100020: 3DGeom~49
+    100022: 3DGeom~50
+    100024: 3DGeom~51
+    100026: 3DGeom~52
+    100028: 3DGeom~53
+    100030: 3DGeom~54
+    100032: 3DGeom~55
+    100034: 3DGeom~56
+    100036: 3DGeom~57
+    100038: 3DGeom~58
+    100040: 3DGeom~59
+    100042: 3DGeom~60
+    100044: Assembly~117
+    100046: Camera
+    100048: Camera~13
+    100050: Ceilings (1)
+    100052: //RootNode
+    100054: DU AN KHO LANH
+    100056: Group
+    100058: Group_2
+    100060: Group_3
+    100062: Group_4
+    100064: Group_5
+    100066: Group_6
+    100068: Group_7
+    100070: Group_8
+    100072: Lamp
+    100074: M_Elbow - Welded - Generic [1323360]
+    100076: M_Elbow - Welded - Generic [1325340]
+    100078: M_Elbow - Welded - Generic [1325342]
+    100080: Mechanical Equipment (1)
+    100082: Object
+    100084: Object_10
+    100086: Object_14
+    100088: Object_15
+    100090: Object_16
+    100092: Object_18
+    100094: Object_19
+    100096: Object_2
+    100098: Object_3
+    100100: Object_4
+    100102: Object_5
+    100104: Object_6
+    100106: Object_7
+    100108: Object_9
+    100110: Part 133
+    100112: Part 35
+    100114: Part 41
+    100116: Part 49
+    100118: Part 55
+    100120: Part 61
+    100122: Part 67
+    100124: Part 75
+    100126: Part 81
+    100128: Part 87
+    100130: Pipe Fittings (3)
+    100132: Pipe Insulation [1326809]
+    100134: Pipe Insulation [1326818]
+    100136: Pipe Insulation [1326823]
+    100138: Pipe Insulation [1326830]
+    100140: Pipe Insulation [1326835]
+    100142: Pipe Insulation [1326842]
+    100144: Pipe Insulation [1326849]
+    100146: Pipe Insulation [1326854]
+    100148: Pipe Insulations (8)
+    100150: Pipe Types [1323340]
+    100152: Pipe Types [1323406]
+    100154: Pipe Types [1323641]
+    100156: Pipe Types [1325264]
+    100158: Pipe Types [1325316]
+    100160: Pipes (5)
+    100162: SimLabDWFFile
+    400000: 3DGeom~39
+    400002: 3DGeom~40
+    400004: 3DGeom~41
+    400006: 3DGeom~42
+    400008: 3DGeom~43
+    400010: 3DGeom~44
+    400012: 3DGeom~45
+    400014: 3DGeom~46
+    400016: 3DGeom~47
+    400018: 3DGeom~48
+    400020: 3DGeom~49
+    400022: 3DGeom~50
+    400024: 3DGeom~51
+    400026: 3DGeom~52
+    400028: 3DGeom~53
+    400030: 3DGeom~54
+    400032: 3DGeom~55
+    400034: 3DGeom~56
+    400036: 3DGeom~57
+    400038: 3DGeom~58
+    400040: 3DGeom~59
+    400042: 3DGeom~60
+    400044: Assembly~117
+    400046: Camera
+    400048: Camera~13
+    400050: Ceilings (1)
+    400052: //RootNode
+    400054: DU AN KHO LANH
+    400056: Group
+    400058: Group_2
+    400060: Group_3
+    400062: Group_4
+    400064: Group_5
+    400066: Group_6
+    400068: Group_7
+    400070: Group_8
+    400072: Lamp
+    400074: M_Elbow - Welded - Generic [1323360]
+    400076: M_Elbow - Welded - Generic [1325340]
+    400078: M_Elbow - Welded - Generic [1325342]
+    400080: Mechanical Equipment (1)
+    400082: Object
+    400084: Object_10
+    400086: Object_14
+    400088: Object_15
+    400090: Object_16
+    400092: Object_18
+    400094: Object_19
+    400096: Object_2
+    400098: Object_3
+    400100: Object_4
+    400102: Object_5
+    400104: Object_6
+    400106: Object_7
+    400108: Object_9
+    400110: Part 133
+    400112: Part 35
+    400114: Part 41
+    400116: Part 49
+    400118: Part 55
+    400120: Part 61
+    400122: Part 67
+    400124: Part 75
+    400126: Part 81
+    400128: Part 87
+    400130: Pipe Fittings (3)
+    400132: Pipe Insulation [1326809]
+    400134: Pipe Insulation [1326818]
+    400136: Pipe Insulation [1326823]
+    400138: Pipe Insulation [1326830]
+    400140: Pipe Insulation [1326835]
+    400142: Pipe Insulation [1326842]
+    400144: Pipe Insulation [1326849]
+    400146: Pipe Insulation [1326854]
+    400148: Pipe Insulations (8)
+    400150: Pipe Types [1323340]
+    400152: Pipe Types [1323406]
+    400154: Pipe Types [1323641]
+    400156: Pipe Types [1325264]
+    400158: Pipe Types [1325316]
+    400160: Pipes (5)
+    400162: SimLabDWFFile
+    2100000: R244,G244,B244
+    2100002: R234,G234,B234
+    2100004: Hone.png
+    2100006: R127,G127,B127
+    2100008: R0,G128,B255
+    2300000: Part 133
+    2300002: Part 35
+    2300004: Part 41
+    2300006: Part 49
+    2300008: Part 55
+    2300010: Part 61
+    2300012: Part 67
+    2300014: Part 75
+    2300016: Part 81
+    2300018: Part 87
+    3300000: Part 133
+    3300002: Part 35
+    3300004: Part 41
+    3300006: Part 49
+    3300008: Part 55
+    3300010: Part 61
+    3300012: Part 67
+    3300014: Part 75
+    3300016: Part 81
+    3300018: Part 87
+    4300000: Part 35
+    4300002: Part 41
+    4300004: Part 49
+    4300006: Part 55
+    4300008: Part 61
+    4300010: Part 67
+    4300012: Part 75
+    4300014: Part 81
+    4300016: Part 87
+    4300018: Part 133
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

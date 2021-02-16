@@ -1,0 +1,867 @@
+fileFormatVersion: 2
+guid: 38c9153917625ec46938b87e7b37a873
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 3DGeom~137
+    100002: 3DGeom~138
+    100004: 3DGeom~139
+    100006: 3DGeom~140
+    100008: 3DGeom~141
+    100010: 3DGeom~142
+    100012: 3DGeom~143
+    100014: 3DGeom~144
+    100016: 3DGeom~145
+    100018: 3DGeom~146
+    100020: 3DGeom~147
+    100022: 3DGeom~148
+    100024: 3DGeom~149
+    100026: 3DGeom~150
+    100028: 3DGeom~151
+    100030: 3DGeom~152
+    100032: 3DGeom~153
+    100034: 3DGeom~154
+    100036: 3DGeom~155
+    100038: 3DGeom~156
+    100040: 3DGeom~157
+    100042: 3DGeom~159
+    100044: 3DGeom~160
+    100046: 3DGeom~161
+    100048: 3DGeom~162
+    100050: 3DGeom~163
+    100052: 3DGeom~164
+    100054: 3DGeom~165
+    100056: 3DGeom~166
+    100058: 3DGeom~167
+    100060: 3DGeom~168
+    100062: 3DGeom~169
+    100064: 3DGeom~170
+    100066: 3DGeom~171
+    100068: 3DGeom~172
+    100070: 3DGeom~173
+    100072: 3DGeom~174
+    100074: 3DGeom~180
+    100076: 3DGeom~181
+    100078: 3DGeom~182
+    100080: 3DGeom~183
+    100082: 3DGeom~184
+    100084: 3DGeom~185
+    100086: 3DGeom~186
+    100088: 3DGeom~187
+    100090: 3DGeom~188
+    100092: 3DGeom~189
+    100094: 3DGeom~190
+    100096: 3DGeom~191
+    100098: 3DGeom~192
+    100100: 3DGeom~193
+    100102: Assembly~288
+    100104: Camera~13
+    100106: //RootNode
+    100108: DU AN KHO LANH
+    100110: Group
+    100112: Group_10
+    100114: Group_11
+    100116: Group_12
+    100118: Group_13
+    100120: Group_14
+    100122: Group_15
+    100124: Group_16
+    100126: Group_17
+    100128: Group_18
+    100130: Group_19
+    100132: Group_2
+    100134: Group_20
+    100136: Group_21
+    100138: Group_22
+    100140: Group_23
+    100142: Group_24
+    100144: Group_25
+    100146: Group_3
+    100148: Group_4
+    100150: Group_5
+    100152: Group_6
+    100154: Group_7
+    100156: Group_8
+    100158: Group_9
+    100160: M_Elbow - Welded - Generic (11)
+    100162: M_Elbow - Welded - Generic [1323360]
+    100164: M_Elbow - Welded - Generic [1324130]
+    100166: M_Elbow - Welded - Generic [1324698]
+    100168: M_Elbow - Welded - Generic [1324715]
+    100170: M_Elbow - Welded - Generic [1324720]
+    100172: M_Elbow - Welded - Generic [1324882]
+    100174: M_Elbow - Welded - Generic [1324887]
+    100176: M_Elbow - Welded - Generic [1324891]
+    100178: M_Elbow - Welded - Generic [1324895]
+    100180: M_Elbow - Welded - Generic [1325340]
+    100182: M_Elbow - Welded - Generic [1325342]
+    100184: M_Transition - Welded - Generic (4)
+    100186: M_Transition - Welded - Generic [1324636]
+    100188: M_Transition - Welded - Generic [1324884]
+    100190: M_Transition - Welded - Generic [1324897]
+    100192: M_Transition - Welded - Generic [1325515]
+    100194: Mechanical Equipment (1)
+    100196: Object
+    100198: Object_10
+    100200: Object_11
+    100202: Object_12
+    100204: Object_13
+    100206: Object_14
+    100208: Object_15
+    100210: Object_16
+    100212: Object_17
+    100214: Object_18
+    100216: Object_19
+    100218: Object_2
+    100220: Object_20
+    100222: Object_21
+    100224: Object_22
+    100226: Object_23
+    100228: Object_24
+    100230: Object_25
+    100232: Object_26
+    100234: Object_27
+    100236: Object_28
+    100238: Object_29
+    100240: Object_3
+    100242: Object_30
+    100244: Object_31
+    100246: Object_32
+    100248: Object_33
+    100250: Object_34
+    100252: Object_35
+    100254: Object_36
+    100256: Object_37
+    100258: Object_38
+    100260: Object_39
+    100262: Object_4
+    100264: Object_40
+    100266: Object_41
+    100268: Object_42
+    100270: Object_43
+    100272: Object_44
+    100274: Object_45
+    100276: Object_46
+    100278: Object_47
+    100280: Object_48
+    100282: Object_49
+    100284: Object_5
+    100286: Object_50
+    100288: Object_51
+    100290: Object_52
+    100292: Object_53
+    100294: Object_54
+    100296: Object_55
+    100298: Object_56
+    100300: Object_57
+    100302: Object_58
+    100304: Object_59
+    100306: Object_6
+    100308: Object_60
+    100310: Object_61
+    100312: Object_62
+    100314: Object_63
+    100316: Object_64
+    100318: Object_7
+    100320: Object_8
+    100322: Object_9
+    100324: Pipe Fittings (15)
+    100326: Pipe Insulation [1326809]
+    100328: Pipe Insulation [1326818]
+    100330: Pipe Insulation [1326823]
+    100332: Pipe Insulation [1326830]
+    100334: Pipe Insulation [1326835]
+    100336: Pipe Insulation [1326842]
+    100338: Pipe Insulation [1326849]
+    100340: Pipe Insulation [1326854]
+    100342: Pipe Insulation [1326865]
+    100344: Pipe Insulation [1326870]
+    100346: Pipe Insulation [1326877]
+    100348: Pipe Insulation [1326884]
+    100350: Pipe Insulation [1326889]
+    100352: Pipe Insulation [1326896]
+    100354: Pipe Insulation [1326901]
+    100356: Pipe Insulation [1326908]
+    100358: Pipe Insulation [1326913]
+    100360: Pipe Insulation [1326920]
+    100362: Pipe Insulation [1326925]
+    100364: Pipe Insulation [1326932]
+    100366: Pipe Insulation [1326939]
+    100368: Pipe Insulation [1326946]
+    100370: Pipe Insulation [1326951]
+    100372: Pipe Insulation [1326958]
+    100374: Pipe Insulation [1326963]
+    100376: Pipe Insulation [1326970]
+    100378: Pipe Insulation [1326975]
+    100380: Pipe Insulation [1326982]
+    100382: Pipe Insulations (28)
+    100384: Pipe Types [1323340]
+    100386: Pipe Types [1323406]
+    100388: Pipe Types [1323641]
+    100390: Pipe Types [1324102]
+    100392: Pipe Types [1324110]
+    100394: Pipe Types [1324133]
+    100396: Pipe Types [1324240]
+    100398: Pipe Types [1324271]
+    100400: Pipe Types [1324591]
+    100402: Pipe Types [1324609]
+    100404: Pipe Types [1324638]
+    100406: Pipe Types [1324690]
+    100408: Pipe Types [1325264]
+    100410: Pipe Types [1325316]
+    100412: Pipe Types [1325502]
+    100414: Pipes (15)
+    100416: SimLabDWFFile
+    400000: 3DGeom~137
+    400002: 3DGeom~138
+    400004: 3DGeom~139
+    400006: 3DGeom~140
+    400008: 3DGeom~141
+    400010: 3DGeom~142
+    400012: 3DGeom~143
+    400014: 3DGeom~144
+    400016: 3DGeom~145
+    400018: 3DGeom~146
+    400020: 3DGeom~147
+    400022: 3DGeom~148
+    400024: 3DGeom~149
+    400026: 3DGeom~150
+    400028: 3DGeom~151
+    400030: 3DGeom~152
+    400032: 3DGeom~153
+    400034: 3DGeom~154
+    400036: 3DGeom~155
+    400038: 3DGeom~156
+    400040: 3DGeom~157
+    400042: 3DGeom~159
+    400044: 3DGeom~160
+    400046: 3DGeom~161
+    400048: 3DGeom~162
+    400050: 3DGeom~163
+    400052: 3DGeom~164
+    400054: 3DGeom~165
+    400056: 3DGeom~166
+    400058: 3DGeom~167
+    400060: 3DGeom~168
+    400062: 3DGeom~169
+    400064: 3DGeom~170
+    400066: 3DGeom~171
+    400068: 3DGeom~172
+    400070: 3DGeom~173
+    400072: 3DGeom~174
+    400074: 3DGeom~180
+    400076: 3DGeom~181
+    400078: 3DGeom~182
+    400080: 3DGeom~183
+    400082: 3DGeom~184
+    400084: 3DGeom~185
+    400086: 3DGeom~186
+    400088: 3DGeom~187
+    400090: 3DGeom~188
+    400092: 3DGeom~189
+    400094: 3DGeom~190
+    400096: 3DGeom~191
+    400098: 3DGeom~192
+    400100: 3DGeom~193
+    400102: Assembly~288
+    400104: Camera~13
+    400106: //RootNode
+    400108: DU AN KHO LANH
+    400110: Group
+    400112: Group_10
+    400114: Group_11
+    400116: Group_12
+    400118: Group_13
+    400120: Group_14
+    400122: Group_15
+    400124: Group_16
+    400126: Group_17
+    400128: Group_18
+    400130: Group_19
+    400132: Group_2
+    400134: Group_20
+    400136: Group_21
+    400138: Group_22
+    400140: Group_23
+    400142: Group_24
+    400144: Group_25
+    400146: Group_3
+    400148: Group_4
+    400150: Group_5
+    400152: Group_6
+    400154: Group_7
+    400156: Group_8
+    400158: Group_9
+    400160: M_Elbow - Welded - Generic (11)
+    400162: M_Elbow - Welded - Generic [1323360]
+    400164: M_Elbow - Welded - Generic [1324130]
+    400166: M_Elbow - Welded - Generic [1324698]
+    400168: M_Elbow - Welded - Generic [1324715]
+    400170: M_Elbow - Welded - Generic [1324720]
+    400172: M_Elbow - Welded - Generic [1324882]
+    400174: M_Elbow - Welded - Generic [1324887]
+    400176: M_Elbow - Welded - Generic [1324891]
+    400178: M_Elbow - Welded - Generic [1324895]
+    400180: M_Elbow - Welded - Generic [1325340]
+    400182: M_Elbow - Welded - Generic [1325342]
+    400184: M_Transition - Welded - Generic (4)
+    400186: M_Transition - Welded - Generic [1324636]
+    400188: M_Transition - Welded - Generic [1324884]
+    400190: M_Transition - Welded - Generic [1324897]
+    400192: M_Transition - Welded - Generic [1325515]
+    400194: Mechanical Equipment (1)
+    400196: Object
+    400198: Object_10
+    400200: Object_11
+    400202: Object_12
+    400204: Object_13
+    400206: Object_14
+    400208: Object_15
+    400210: Object_16
+    400212: Object_17
+    400214: Object_18
+    400216: Object_19
+    400218: Object_2
+    400220: Object_20
+    400222: Object_21
+    400224: Object_22
+    400226: Object_23
+    400228: Object_24
+    400230: Object_25
+    400232: Object_26
+    400234: Object_27
+    400236: Object_28
+    400238: Object_29
+    400240: Object_3
+    400242: Object_30
+    400244: Object_31
+    400246: Object_32
+    400248: Object_33
+    400250: Object_34
+    400252: Object_35
+    400254: Object_36
+    400256: Object_37
+    400258: Object_38
+    400260: Object_39
+    400262: Object_4
+    400264: Object_40
+    400266: Object_41
+    400268: Object_42
+    400270: Object_43
+    400272: Object_44
+    400274: Object_45
+    400276: Object_46
+    400278: Object_47
+    400280: Object_48
+    400282: Object_49
+    400284: Object_5
+    400286: Object_50
+    400288: Object_51
+    400290: Object_52
+    400292: Object_53
+    400294: Object_54
+    400296: Object_55
+    400298: Object_56
+    400300: Object_57
+    400302: Object_58
+    400304: Object_59
+    400306: Object_6
+    400308: Object_60
+    400310: Object_61
+    400312: Object_62
+    400314: Object_63
+    400316: Object_64
+    400318: Object_7
+    400320: Object_8
+    400322: Object_9
+    400324: Pipe Fittings (15)
+    400326: Pipe Insulation [1326809]
+    400328: Pipe Insulation [1326818]
+    400330: Pipe Insulation [1326823]
+    400332: Pipe Insulation [1326830]
+    400334: Pipe Insulation [1326835]
+    400336: Pipe Insulation [1326842]
+    400338: Pipe Insulation [1326849]
+    400340: Pipe Insulation [1326854]
+    400342: Pipe Insulation [1326865]
+    400344: Pipe Insulation [1326870]
+    400346: Pipe Insulation [1326877]
+    400348: Pipe Insulation [1326884]
+    400350: Pipe Insulation [1326889]
+    400352: Pipe Insulation [1326896]
+    400354: Pipe Insulation [1326901]
+    400356: Pipe Insulation [1326908]
+    400358: Pipe Insulation [1326913]
+    400360: Pipe Insulation [1326920]
+    400362: Pipe Insulation [1326925]
+    400364: Pipe Insulation [1326932]
+    400366: Pipe Insulation [1326939]
+    400368: Pipe Insulation [1326946]
+    400370: Pipe Insulation [1326951]
+    400372: Pipe Insulation [1326958]
+    400374: Pipe Insulation [1326963]
+    400376: Pipe Insulation [1326970]
+    400378: Pipe Insulation [1326975]
+    400380: Pipe Insulation [1326982]
+    400382: Pipe Insulations (28)
+    400384: Pipe Types [1323340]
+    400386: Pipe Types [1323406]
+    400388: Pipe Types [1323641]
+    400390: Pipe Types [1324102]
+    400392: Pipe Types [1324110]
+    400394: Pipe Types [1324133]
+    400396: Pipe Types [1324240]
+    400398: Pipe Types [1324271]
+    400400: Pipe Types [1324591]
+    400402: Pipe Types [1324609]
+    400404: Pipe Types [1324638]
+    400406: Pipe Types [1324690]
+    400408: Pipe Types [1325264]
+    400410: Pipe Types [1325316]
+    400412: Pipe Types [1325502]
+    400414: Pipes (15)
+    400416: SimLabDWFFile
+    2000000: Camera~13
+    2100000: R187,G80,B46
+    2100002: R187,G80,B461
+    2100004: R0,G128,B255
+    2100006: R255,G255,B255
+    2100008: R32,G154,B68
+    2100010: R11,G11,B11
+    2100012: R189,G187,B185
+    2100014: R127,G127,B127
+    2100016: R0,G0,B0
+    2100018: R0,G0,B255
+    2100020: R148,G131,B119
+    2100022: R0,G0,B01
+    2100024: R255,G255,B0
+    2100026: R255,G0,B0
+    2100028: R55,G55,B255
+    2100030: R0,G0,B128
+    2300000: 3DGeom~137
+    2300002: 3DGeom~138
+    2300004: 3DGeom~139
+    2300006: 3DGeom~140
+    2300008: 3DGeom~141
+    2300010: 3DGeom~142
+    2300012: 3DGeom~143
+    2300014: 3DGeom~144
+    2300016: 3DGeom~145
+    2300018: 3DGeom~146
+    2300020: 3DGeom~147
+    2300022: 3DGeom~148
+    2300024: 3DGeom~149
+    2300026: 3DGeom~150
+    2300028: 3DGeom~151
+    2300030: 3DGeom~152
+    2300032: 3DGeom~153
+    2300034: 3DGeom~154
+    2300036: 3DGeom~155
+    2300038: 3DGeom~156
+    2300040: 3DGeom~157
+    2300042: 3DGeom~159
+    2300044: 3DGeom~160
+    2300046: 3DGeom~161
+    2300048: 3DGeom~162
+    2300050: 3DGeom~163
+    2300052: 3DGeom~164
+    2300054: 3DGeom~165
+    2300056: 3DGeom~166
+    2300058: 3DGeom~167
+    2300060: 3DGeom~168
+    2300062: 3DGeom~169
+    2300064: 3DGeom~170
+    2300066: 3DGeom~171
+    2300068: 3DGeom~172
+    2300070: 3DGeom~173
+    2300072: 3DGeom~174
+    2300074: 3DGeom~180
+    2300076: 3DGeom~181
+    2300078: 3DGeom~182
+    2300080: 3DGeom~183
+    2300082: 3DGeom~184
+    2300084: 3DGeom~185
+    2300086: 3DGeom~186
+    2300088: 3DGeom~187
+    2300090: 3DGeom~188
+    2300092: 3DGeom~189
+    2300094: 3DGeom~190
+    2300096: 3DGeom~191
+    2300098: 3DGeom~192
+    2300100: 3DGeom~193
+    2300102: Object
+    2300104: Object_10
+    2300106: Object_11
+    2300108: Object_12
+    2300110: Object_13
+    2300112: Object_14
+    2300114: Object_15
+    2300116: Object_16
+    2300118: Object_17
+    2300120: Object_18
+    2300122: Object_19
+    2300124: Object_2
+    2300126: Object_20
+    2300128: Object_21
+    2300130: Object_22
+    2300132: Object_23
+    2300134: Object_24
+    2300136: Object_25
+    2300138: Object_26
+    2300140: Object_27
+    2300142: Object_28
+    2300144: Object_29
+    2300146: Object_3
+    2300148: Object_30
+    2300150: Object_31
+    2300152: Object_32
+    2300154: Object_33
+    2300156: Object_34
+    2300158: Object_35
+    2300160: Object_36
+    2300162: Object_37
+    2300164: Object_38
+    2300166: Object_39
+    2300168: Object_4
+    2300170: Object_40
+    2300172: Object_41
+    2300174: Object_42
+    2300176: Object_43
+    2300178: Object_44
+    2300180: Object_45
+    2300182: Object_46
+    2300184: Object_47
+    2300186: Object_48
+    2300188: Object_49
+    2300190: Object_5
+    2300192: Object_50
+    2300194: Object_51
+    2300196: Object_52
+    2300198: Object_53
+    2300200: Object_54
+    2300202: Object_55
+    2300204: Object_56
+    2300206: Object_57
+    2300208: Object_58
+    2300210: Object_59
+    2300212: Object_6
+    2300214: Object_60
+    2300216: Object_61
+    2300218: Object_62
+    2300220: Object_63
+    2300222: Object_64
+    2300224: Object_7
+    2300226: Object_8
+    2300228: Object_9
+    3300000: 3DGeom~137
+    3300002: 3DGeom~138
+    3300004: 3DGeom~139
+    3300006: 3DGeom~140
+    3300008: 3DGeom~141
+    3300010: 3DGeom~142
+    3300012: 3DGeom~143
+    3300014: 3DGeom~144
+    3300016: 3DGeom~145
+    3300018: 3DGeom~146
+    3300020: 3DGeom~147
+    3300022: 3DGeom~148
+    3300024: 3DGeom~149
+    3300026: 3DGeom~150
+    3300028: 3DGeom~151
+    3300030: 3DGeom~152
+    3300032: 3DGeom~153
+    3300034: 3DGeom~154
+    3300036: 3DGeom~155
+    3300038: 3DGeom~156
+    3300040: 3DGeom~157
+    3300042: 3DGeom~159
+    3300044: 3DGeom~160
+    3300046: 3DGeom~161
+    3300048: 3DGeom~162
+    3300050: 3DGeom~163
+    3300052: 3DGeom~164
+    3300054: 3DGeom~165
+    3300056: 3DGeom~166
+    3300058: 3DGeom~167
+    3300060: 3DGeom~168
+    3300062: 3DGeom~169
+    3300064: 3DGeom~170
+    3300066: 3DGeom~171
+    3300068: 3DGeom~172
+    3300070: 3DGeom~173
+    3300072: 3DGeom~174
+    3300074: 3DGeom~180
+    3300076: 3DGeom~181
+    3300078: 3DGeom~182
+    3300080: 3DGeom~183
+    3300082: 3DGeom~184
+    3300084: 3DGeom~185
+    3300086: 3DGeom~186
+    3300088: 3DGeom~187
+    3300090: 3DGeom~188
+    3300092: 3DGeom~189
+    3300094: 3DGeom~190
+    3300096: 3DGeom~191
+    3300098: 3DGeom~192
+    3300100: 3DGeom~193
+    3300102: Object
+    3300104: Object_10
+    3300106: Object_11
+    3300108: Object_12
+    3300110: Object_13
+    3300112: Object_14
+    3300114: Object_15
+    3300116: Object_16
+    3300118: Object_17
+    3300120: Object_18
+    3300122: Object_19
+    3300124: Object_2
+    3300126: Object_20
+    3300128: Object_21
+    3300130: Object_22
+    3300132: Object_23
+    3300134: Object_24
+    3300136: Object_25
+    3300138: Object_26
+    3300140: Object_27
+    3300142: Object_28
+    3300144: Object_29
+    3300146: Object_3
+    3300148: Object_30
+    3300150: Object_31
+    3300152: Object_32
+    3300154: Object_33
+    3300156: Object_34
+    3300158: Object_35
+    3300160: Object_36
+    3300162: Object_37
+    3300164: Object_38
+    3300166: Object_39
+    3300168: Object_4
+    3300170: Object_40
+    3300172: Object_41
+    3300174: Object_42
+    3300176: Object_43
+    3300178: Object_44
+    3300180: Object_45
+    3300182: Object_46
+    3300184: Object_47
+    3300186: Object_48
+    3300188: Object_49
+    3300190: Object_5
+    3300192: Object_50
+    3300194: Object_51
+    3300196: Object_52
+    3300198: Object_53
+    3300200: Object_54
+    3300202: Object_55
+    3300204: Object_56
+    3300206: Object_57
+    3300208: Object_58
+    3300210: Object_59
+    3300212: Object_6
+    3300214: Object_60
+    3300216: Object_61
+    3300218: Object_62
+    3300220: Object_63
+    3300222: Object_64
+    3300224: Object_7
+    3300226: Object_8
+    3300228: Object_9
+    4300000: Object
+    4300002: Object_2
+    4300004: Object_5
+    4300006: Object_8
+    4300008: Object_9
+    4300010: Object_10
+    4300012: Object_12
+    4300014: Object_13
+    4300016: Object_14
+    4300018: Object_15
+    4300020: Object_16
+    4300022: Object_17
+    4300024: Object_18
+    4300026: Object_19
+    4300028: Object_20
+    4300030: Object_21
+    4300032: Object_22
+    4300034: Object_23
+    4300036: Object_24
+    4300038: Object_25
+    4300040: Object_26
+    4300042: Object_27
+    4300044: Object_28
+    4300046: Object_29
+    4300048: Object_30
+    4300050: Object_31
+    4300052: Object_32
+    4300054: Object_33
+    4300056: Object_34
+    4300058: Object_35
+    4300060: Object_36
+    4300062: Object_37
+    4300064: Object_38
+    4300066: Object_39
+    4300068: Object_40
+    4300070: Object_41
+    4300072: Object_42
+    4300074: Object_43
+    4300076: Object_44
+    4300078: Object_45
+    4300080: Object_46
+    4300082: Object_47
+    4300084: Object_48
+    4300086: Object_49
+    4300088: Object_50
+    4300090: Object_51
+    4300092: Object_52
+    4300094: Object_53
+    4300096: Object_54
+    4300098: Object_55
+    4300100: Object_56
+    4300102: Object_57
+    4300104: Object_58
+    4300106: 3DGeom~137
+    4300108: 3DGeom~138
+    4300110: 3DGeom~139
+    4300112: 3DGeom~140
+    4300114: 3DGeom~141
+    4300116: 3DGeom~142
+    4300118: 3DGeom~143
+    4300120: 3DGeom~144
+    4300122: 3DGeom~145
+    4300124: 3DGeom~146
+    4300126: 3DGeom~147
+    4300128: 3DGeom~148
+    4300130: 3DGeom~149
+    4300132: 3DGeom~150
+    4300134: 3DGeom~151
+    4300136: 3DGeom~152
+    4300138: 3DGeom~153
+    4300140: 3DGeom~154
+    4300142: 3DGeom~155
+    4300144: 3DGeom~156
+    4300146: 3DGeom~157
+    4300148: 3DGeom~159
+    4300150: 3DGeom~160
+    4300152: 3DGeom~161
+    4300154: 3DGeom~162
+    4300156: 3DGeom~163
+    4300158: 3DGeom~164
+    4300160: 3DGeom~165
+    4300162: 3DGeom~166
+    4300164: 3DGeom~167
+    4300166: 3DGeom~168
+    4300168: 3DGeom~169
+    4300170: 3DGeom~170
+    4300172: 3DGeom~171
+    4300174: 3DGeom~172
+    4300176: 3DGeom~173
+    4300178: 3DGeom~174
+    4300180: 3DGeom~180
+    4300182: 3DGeom~181
+    4300184: 3DGeom~182
+    4300186: 3DGeom~183
+    4300188: 3DGeom~184
+    4300190: 3DGeom~185
+    4300192: 3DGeom~186
+    4300194: 3DGeom~187
+    4300196: 3DGeom~188
+    4300198: 3DGeom~189
+    4300200: 3DGeom~190
+    4300202: 3DGeom~191
+    4300204: 3DGeom~192
+    4300206: 3DGeom~193
+    4300208: Object_59
+    4300210: Object_60
+    4300212: Object_61
+    4300214: Object_62
+    4300216: Object_63
+    4300218: Object_64
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
